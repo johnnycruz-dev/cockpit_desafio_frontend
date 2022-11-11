@@ -33,7 +33,8 @@ $ npm run start
 
 #### Observações
 ```sh
-# Como existe apenas 1 usuário criado no server, segue abaixo o email e senha para logar (a mesma que está no json mockado).
+# Para facilitar o acesso, segue abaixo o email e senha para logar (a mesma que está no json mockado).
+
 *email: bvs@boavistascpc.com.br
 *senha: admin
 ```
