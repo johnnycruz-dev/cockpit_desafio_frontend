@@ -23,7 +23,7 @@ ou
 $ npm run server
 # o server será executado na porta:9004 - http://localhost:9004
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação em modo de desenvolvimento (Obs: execute junto com o server)
 $ yarn start
 ou
 $ npm run start
