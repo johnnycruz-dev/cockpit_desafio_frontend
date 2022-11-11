@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "bvs@boavistascpc.com.br",
+      "provider": "office365",
+      "password": "admin"
+    }
+  ],
+  "tribes": [
+    {
+      "id": 1,
+      "name": "Analitycs",
+      "icon": "chart-bar"
+    },
+    {
+      "id": 2,
+      "name": "Backoffice",
+      "icon": "briefcase-24"
+    },
+    {
+      "id": 3,
+      "name": "Consumidor",
+      "icon": "handshake"
+    },
+    {
+      "id": 4,
+      "name": "Decision Services",
+      "icon": "hammer"
+    },
+    {
+      "id": 5,
+      "name": "Cloud Engineering",
+      "icon": "layout-11"
+    }
+  ]
+}
