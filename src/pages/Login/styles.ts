@@ -33,6 +33,7 @@ export const Container = styled.div`
     font-size : 2rem;
     color: var(--white);
     margin-top: 2rem;
+    font-weight: 400;
   }
 
   @media screen and (min-width: 769px) {
