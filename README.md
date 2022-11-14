@@ -31,6 +31,15 @@ $ npm run start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
+#### Testando o Projeto
+```sh
+# Execute o teste
+$ yarn test
+ou
+$ npm run test
+# os testes serão executado no console
+```
+
 #### Observações
 ```sh
 # Para facilitar o acesso, segue abaixo o email e senha para logar (a mesma que está no json mockado).
